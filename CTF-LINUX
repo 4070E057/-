@@ -3,6 +3,8 @@
   cat flag
 2.
 3.
+  cat hex.txt
+  https://coding.tools/tw/hex-to-ascii
 4.
 5.
   find / -name secret
