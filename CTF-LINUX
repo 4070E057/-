@@ -21,4 +21,13 @@
   tar -xvf ForYou.tar.gz
   cat ForYou
 9.
+   wget http://120.114.62.217/TobeExe
+   file TobeExe ==>無法執行
+   ls -al TobeExe ==>檢查權限，少了執行的權限
+   chmod +x TobeExe ==>改變權限(加入執行權限)
+   ls -al TobeExe ==>檢查權限
+   ./TobeExe ==>執行
 10.
+
+
+rwx
