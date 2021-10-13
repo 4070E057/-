@@ -9,7 +9,14 @@
 7.
   netstat -ano
   curl 127.0.0.1
-
 8.
+  cd /tmp
+  ls
+  mkdir 4070E057
+  cd 4070E057
+  wget http://120.114.62.217/ForYou.tar.gz
+  ls
+  tar -xvf ForYou.tar.gz
+  cat ForYou
 9.
 10.
