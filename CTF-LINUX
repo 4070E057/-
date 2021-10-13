@@ -28,6 +28,10 @@
    ls -al TobeExe ==>檢查權限
    ./TobeExe ==>執行
 10.
-
+  wget http://120.114.62.217/reverse
+  ls -al reverse
+  chmod +x reverse
+  ./reverse
+   strings reverse
 
 rwx
