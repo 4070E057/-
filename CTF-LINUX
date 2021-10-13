@@ -6,6 +6,8 @@
   cat hex.txt
   https://coding.tools/tw/hex-to-ascii
 4.
+  cat base64.txt
+  https://www.convertstring.com/zh_TW/EncodeDecode/Base64Decode
 5.
   find / -name secret
   cat /opt/secret
