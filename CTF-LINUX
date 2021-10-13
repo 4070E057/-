@@ -5,6 +5,9 @@
 3.
 4.
 5.
+  find / -name secret
+  cat /opt/secret
+
 6.
   ps -aux -w
   nc 127.0.0.1 2111
